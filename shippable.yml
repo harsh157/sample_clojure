@@ -4,7 +4,7 @@ build_image: drydock/u12clo:tip
 language: clojure
 
 lein:
-  - lein2
+  - lein1
 
 # Create directories for test and coverage reports
 before_script:
